@@ -114,3 +114,44 @@ h1{
     width: 250px;
     height: 450px;
 }
+
+ul#album-fotos {
+    width: 700px;
+    margin: 0 auto;
+    padding: 50px;
+    overflow: hidden;
+    list-style: none;
+}
+
+ul#album-fotos li {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 3px solid #6D0423;
+    box-shadow: 1px 1px 3px rgba(0 , 0, 0, 0.4);
+}
+
+ul#album-fotos li#therev1 {
+    background-image: url(../images/therev1.jpg);
+}
+
+ul#album-fotos li#therev2 {
+    background-image: url(../images/therev2.jpg);
+}
+
+ul#album-fotos li#therev3 {
+    background-image: url(../images/therev3.jpg);
+}
+
+ul#album-fotos li#therev4 {
+    background-image: url(../images/therev4.jpg);
+}
+
+ul#album-fotos li#therev5 {
+    background-image: url(../images/therev5.jpg);
+}
+
+ul#album-fotos li#therev6 {
+    background-image: url(../images/therev6.jpg);
+}
