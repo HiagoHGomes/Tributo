@@ -115,6 +115,11 @@ h1{
     height: 450px;
 }
 
+.foto h2 {
+    margin: 2px 20px;
+   
+}
+
 ul#album-fotos {
     width: 700px;
     margin: 0 auto;
@@ -128,30 +133,72 @@ ul#album-fotos li {
     width: 200px;
     height: 200px;
     margin: 10px;
-    border: 3px solid #6D0423;
+    border: 3px solid #443d3f;
     box-shadow: 1px 1px 3px rgba(0 , 0, 0, 0.4);
 }
 
 ul#album-fotos li#therev1 {
     background-image: url(../images/therev1.jpg);
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+}
+
+ul#album-fotos li#therev1:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
 }
 
 ul#album-fotos li#therev2 {
     background-image: url(../images/therev2.jpg);
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+}
+
+ul#album-fotos li#therev2:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
 }
 
 ul#album-fotos li#therev3 {
     background-image: url(../images/therev3.jpg);
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+}
+
+ul#album-fotos li#therev3:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
 }
 
 ul#album-fotos li#therev4 {
     background-image: url(../images/therev4.jpg);
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+}
+
+ul#album-fotos li#therev4:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
 }
 
 ul#album-fotos li#therev5 {
     background-image: url(../images/therev5.jpg);
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+}
+
+ul#album-fotos li#therev5:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
 }
 
 ul#album-fotos li#therev6 {
     background-image: url(../images/therev6.jpg);
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+}
+
+ul#album-fotos li#therev6:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
 }
